@@ -1,0 +1,10 @@
+body {
+    background-image: url(wallpaper.jpeg);
+}
+
+body {font-family: Verdana, Geneva, Tahoma, sans-serif; color: lavender;}
+
+p {font-size: 15px;}
+
+h1, h2, .black-border {border: 3px solid black;}
+
